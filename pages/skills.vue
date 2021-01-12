@@ -137,19 +137,19 @@ export default {
                 },
                 {
                     name: "PyCharm",
-                    description: "PyCharm is a Cross-platform JetBrains IDE for Python development.",
+                    description: "PyCharm is a cross-platform JetBrains IDE for Python development.",
                     icon: "earth",
                     link: "https://www.jetbrains.com/pycharm/"
                 },
                 {
                     name: "CLion",
-                    description: "CLion is a Cross-platform JetBrains IDE for C and C++ development.",
+                    description: "CLion is a cross-platform JetBrains IDE for C and C++ development.",
                     icon: "earth",
                     link: "https://www.jetbrains.com/clion/"
                 },
                 {
                     name: "WebStorm",
-                    description: "WebStorm is a Cross-platform JetBrains IDE for frontend and backend web development.",
+                    description: "WebStorm is a cross-platform JetBrains IDE for frontend and backend web development.",
                     icon: "earth",
                     link: "https://www.jetbrains.com/webstorm/"
                 },
