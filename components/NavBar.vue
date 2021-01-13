@@ -1,5 +1,5 @@
 <template>
-    <b-navbar :fixed-top="true" class="padded">
+    <b-navbar class="padded is-fixed-top">
         <template #brand>
             <b-navbar-item id="name" tag="router-link" :to="{ path: '/' }">
                 <p class="has-text-weight-semibold is-size-5">LlamaLad7</p>

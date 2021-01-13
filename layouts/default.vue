@@ -12,6 +12,7 @@
 <style lang="scss">
 html {
     overflow-y: auto !important;
+    padding-top: 3.25rem;
 }
 </style>
 
