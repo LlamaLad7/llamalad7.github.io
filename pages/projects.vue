@@ -50,8 +50,22 @@ export default {
                             link: "https://github.com/Sk1erLLC"
                         }
                     ]
+                },
+                {
+                    title: "Better Chat",
+                    description: "Popular Minecraft Forge mod to enhance the general look and feel of the Chat GUI.",
+                    links: [
+                        {
+                            icon: "earth",
+                            link: "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+                        },
+                        {
+                            icon: "github",
+                            link: "https://github.com/LlamaLad7/Better-Chat"
+                        }
+                    ]
                 }
-            ]
+            ].sort((a, b) => a.name > b.name ? 1 : -1)
         }
     }
 }
