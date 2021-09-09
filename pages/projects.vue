@@ -64,6 +64,20 @@ export default {
                             link: "https://github.com/LlamaLad7/Better-Chat"
                         }
                     ]
+                },
+                {
+                    title: "Essential",
+                    description: "I work on Essential: the ultimate enhancement for your Minecraft Java experience. It is available on Forge 1.8.9 along with Fabric 1.17.1, with more to come soon.",
+                    links: [
+                        {
+                            icon: "earth",
+                            link: "https://essential.gg"
+                        },
+                        {
+                            icon: "twitter",
+                            link: "https://twitter.com/essentialmod"
+                        }
+                    ]
                 }
             ].sort((a, b) => a.name > b.name ? 1 : -1)
         }
