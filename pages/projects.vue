@@ -67,7 +67,7 @@ export default {
                 },
                 {
                     title: "Essential",
-                    description: "I work on Essential: the ultimate enhancement for your Minecraft Java experience. It is available on Forge 1.8.9 along with Fabric 1.17.1, with more to come soon.",
+                    description: "I am a Java and Kotlin developer for Essential: the ultimate enhancement mod for your Minecraft Java experience. It is available on Forge 1.8.9 and 1.12.2, along with Fabric 1.17.1, with more to come soon.",
                     links: [
                         {
                             icon: "earth",
