@@ -35,7 +35,7 @@ export default {
                 },
                 {
                     title: "Sk1er LLC",
-                    description: "I have been working as a Java and Kotlin developer for Sk1er LLC since October 2020, helping to create a wide variety of popular Minecraft mods and frameworks which collectively attract over 300,000 unique users each week.",
+                    description: "I worked as a Senior Java and Kotlin developer for Sk1er LLC from October 2020 to July 2022, helping to create a wide variety of popular Minecraft mods and frameworks which collectively attract over 300,000 unique users each week.",
                     links: [
                         {
                             icon: "earth",
@@ -67,7 +67,7 @@ export default {
                 },
                 {
                     title: "Essential",
-                    description: "I am a Java and Kotlin developer for Essential: the ultimate enhancement mod for your Minecraft Java experience. It is available on Forge 1.8.9 and 1.12.2, along with Fabric 1.17.1, with more to come soon.",
+                    description: "From its release until July 2022 I was a Java and Kotlin developer for Essential: the ultimate enhancement mod for your Minecraft Java experience. It is available on both Forge and Fabric for a variety of versions from 1.8.9 to the latest.",
                     links: [
                         {
                             icon: "earth",
@@ -76,6 +76,34 @@ export default {
                         {
                             icon: "twitter",
                             link: "https://twitter.com/essentialmod"
+                        }
+                    ]
+                },
+                {
+                    title: "MixinExtras",
+                    description: "I develop MixinExtras: a companion library to SpongePowered's popular framework Mixin which aims to make writing mixins more expressive and compatible for everyone. It is used by a wide variety of developers across all versions and mod loaders.",
+                    links: [
+                        {
+                            icon: "github",
+                            link: "https://github.com/LlamaLad7/MixinExtras/"
+                        }
+                    ]
+                },
+                {
+                    title: "Lunar Client",
+                    description: "Since July 2022 I have been working as a Software Engineer for Moonsworth LLC, helping to create Lunar Client. I primarily work on our version independent modding platform, helping support versions all the way from 1.7 to the latest. We routinely serve over 100,000 concurrent users.",
+                    links: [
+                        {
+                            icon: "earth",
+                            link: "https://lunarclient.com/"
+                        },
+                        {
+                            icon: "twitter",
+                            link: "https://twitter.com/lunarclient/"
+                        },
+                        {
+                            icon: "github",
+                            link: "https://github.com/LunarClient/"
                         }
                     ]
                 }
